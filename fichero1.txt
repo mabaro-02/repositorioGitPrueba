@@ -1,3 +1,8 @@
 Nuevo fichero1.txt y hacer push al repositorio remoto
 
+<<<<<<< HEAD
 Aqui estoy modificando el archivo desde VSCode (local)
+=======
+
+Aqui estoy modificando el archivo desde GitHub (remoto)
+>>>>>>> 144eec19f587d04ced8f693e5a065f465971e12e
