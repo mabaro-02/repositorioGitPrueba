@@ -1,0 +1,1 @@
+Nuevo fichero1.txt y hacer push al repositorio remoto
