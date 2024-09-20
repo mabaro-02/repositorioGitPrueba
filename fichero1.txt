@@ -1,3 +1,0 @@
-Este es mi primer fichero de texto en git
-
-Esta es la segunda linea y modifico el fichero
